@@ -1,7 +1,14 @@
 ﻿namespace APBDzad2.Containers;
 
-public enum ossibleProducts
-{
-    Banana=10,
-    Chocolate,
+public enum PossibleProducts {
+    BANANAS,
+    CHOCOLATE,
+    FISH,
+    MEAT,
+    ICE_CREAM,
+    FROZEN_PIZZA,
+    CHEESE,
+    SAUSAGES,
+    BUTTER,
+    EGGS
 }
